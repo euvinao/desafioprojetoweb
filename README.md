@@ -1,6 +1,6 @@
 ## Desafio Paradas 32 e 33 - Tecnologia
 
-###Instruções
+#### Instruções
 Hospede o site que você está desenvolvendo para o desafio final e envie o link no site hospedado. Faça o deploy usando o repositório do github para facilitar atualizações no site.
 
 
